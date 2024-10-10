@@ -1,5 +1,5 @@
 import React from 'react'
-import NotAvailable from '../../not-available'
+import NotAvailable from '../not-available'
 
 const Women = () => {
     return (
