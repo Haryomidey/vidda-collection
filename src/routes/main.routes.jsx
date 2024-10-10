@@ -14,7 +14,7 @@ import Products from '../pages/products';
 import Mens from '../pages/mens';
 import SingleProduct from '../pages/single-product';
 import NotAvailable from '../pages/not-available';
-import Women from '../pages/mens/women';
+import Women from '../pages/women';
 import Kids from '../pages/kid';
 
 function MainLayout({ children }) {

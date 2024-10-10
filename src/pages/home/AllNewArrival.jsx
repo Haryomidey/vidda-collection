@@ -63,7 +63,7 @@ const AllNewArrival = () => {
                                 <div className='mt-2 px-5'>
                                     <h3 className='font-semibold text-lg'>{content.name}</h3>
                                     <div className='flex items-center justify-between'>
-                                        <p>{content.price}</p>
+                                        <p>₦{content.price}</p>
                                         <button
                                             onClick={() => handleShare(content)}
                                             className='text-gray-600 hover:text-gray-800'
